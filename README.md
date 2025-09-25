@@ -24,3 +24,12 @@ This is a fullstack application featuring a Rails backend API and a React fronte
 - Backend: Construct migrations, models, and controllers based on `seeds.rb`
 - Frontend: Create a simple view displaying Pokemon data in a table or grid format
 - Use any styling approach (vanilla CSS, CSS modules, Tailwind, etc.)
+
+## Submission instructions
+
+1. Create a new public repository on your GitHub account
+2. Clone the repository to your local machine
+3. Make a new branch for your assessment
+4. Commit your changes to your branch
+5. Push your branch to your GitHub repository
+6. Create a pull request from your branch to the main repository
